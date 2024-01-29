@@ -1,9 +1,1 @@
-install:
-	bin/composer install
-
-start:
-	php -S localhost:8080
-
-test:
-	# cd tst && ../vendor/bin/phpunit
-	./vendor/bin/phpunit tst
+https://getyourgame.net/user/steam_account/576498/0004D338a00E740aB8b7b52c3f04D218252c236Fb3eDe2Ea32bdf7E38dCCC5AB5d3f6e6289FAF7003538CF68eB0A36c90CEAa6C2300d031D8c19dFAF9Ca43044/
